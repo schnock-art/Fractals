@@ -260,7 +260,7 @@ GameObject:
   - component: {fileID: 857630520}
   - component: {fileID: 857630519}
   m_Layer: 0
-  m_Name: MengerCubePoolManager
+  m_Name: CubePoolManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -445,7 +445,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8638594832133853457, guid: d28bffa51630cba45b8930a7e34dd735, type: 3}
       propertyPath: iterations
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8638594832133853457, guid: d28bffa51630cba45b8930a7e34dd735, type: 3}
       propertyPath: gameObjectParent
